@@ -1,0 +1,6 @@
+[10-Jan-2019 11:39:40 UTC] PHP Notice:  Undefined variable: page_title in /home/br8yh6rwmk2n/public_html/include/header.php on line 7
+[10-Jan-2019 11:39:40 UTC] PHP Notice:  Undefined variable: page_descr in /home/br8yh6rwmk2n/public_html/include/header.php on line 13
+[10-Jan-2019 11:39:40 UTC] PHP Notice:  Undefined variable: page_keywords in /home/br8yh6rwmk2n/public_html/include/header.php on line 14
+[13-Jan-2019 23:38:29 UTC] PHP Notice:  Undefined variable: page_title in /home/br8yh6rwmk2n/public_html/include/header.php on line 7
+[13-Jan-2019 23:38:29 UTC] PHP Notice:  Undefined variable: page_descr in /home/br8yh6rwmk2n/public_html/include/header.php on line 13
+[13-Jan-2019 23:38:29 UTC] PHP Notice:  Undefined variable: page_keywords in /home/br8yh6rwmk2n/public_html/include/header.php on line 14
